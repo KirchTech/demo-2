@@ -1,1 +1,2 @@
-Hi this is a section in git 
+Hi this is a section in git
+knowing more about git is my goal
